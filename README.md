@@ -22,3 +22,28 @@
 <p align="center">
   <img src= "https://media.giphy.com/media/hL9q5k9dk9l0wGd4e0/giphy.gif">
 </p>
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Mainak Chattopadhyay
+located_in: Kolkata & Chennai , India 
+current_job: CSE Major Student
+education:
+  [
+    "CSE with AI & ML at Vellore Institute of Technology , Chennai Campus
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "Cloud Computing with Azure
+  ]
+  
+currently_learning: ["Azure, Web Dev"]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Sports","Travelling"]
+```
+  
+---  
