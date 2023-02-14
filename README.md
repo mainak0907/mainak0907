@@ -20,5 +20,5 @@
 </a>
 </p>
 <p align="center">
-  <img src= "https://giphy.com/gifs/abcnetwork-steve-harvey-family-feud-judge-sQuHLqjWwRXGvrjkg0">
+  <img src= "https://media.giphy.com/media/hL9q5k9dk9l0wGd4e0/giphy.gif">
 </p>
