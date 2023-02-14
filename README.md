@@ -45,7 +45,8 @@ currently_learning: ["Azure, Web Dev"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Sports","Travelling"]
 ```
-  
+## 👯 Communities
+*Content Writer and LinkedIn Manager at Tech Researchers Club VIT C
 ---  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
