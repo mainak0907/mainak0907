@@ -19,6 +19,4 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-<p align="center">
-  <iframe src="https://giphy.com/embed/sQuHLqjWwRXGvrjkg0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</p>
+<iframe src="https://giphy.com/embed/sQuHLqjWwRXGvrjkg0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/abcnetwork-steve-harvey-family-feud-judge-sQuHLqjWwRXGvrjkg0">via GIPHY</a></p>
