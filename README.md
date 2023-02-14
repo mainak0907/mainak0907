@@ -64,6 +64,11 @@ hobbies: ["Sports","Travelling"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
 </p>
+
+## Visitor count 😎
+
+![Visitor Count](https://profile-counter.glitch.me/{mainak0907}/count.svg)
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
           
 ![Mainak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainak0907&show_icons=true&theme=cobalt)          
