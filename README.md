@@ -67,3 +67,6 @@ hobbies: ["Sports","Travelling"]
           
 ![Snake animation](https://github.com/mainak0907/mainak0907/blob/output/github-contribution-grid-snake.svg)
           
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
