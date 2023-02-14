@@ -20,5 +20,5 @@
 </a>
 </p>
 <p align="center">
-  <img src= "https://giphy.com/gifs/abcnetwork-steve-harvey-family-feud-judge-sQuHLqjWwRXGvrjkg0">
+  <iframe src="https://giphy.com/embed/sQuHLqjWwRXGvrjkg0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/abcnetwork-steve-harvey-family-feud-judge-sQuHLqjWwRXGvrjkg0">via GIPHY</a></p>
 </p>
