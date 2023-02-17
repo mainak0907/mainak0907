@@ -38,7 +38,7 @@ fields_of_interests:
   [
     "Web Development",
     "Machine Learning",
-    "Cloud Computing with Azure
+    "Cloud Computing with Azure"
   ]
   
 currently_learning: ["Azure, Web Dev"]
