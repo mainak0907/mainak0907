@@ -50,6 +50,10 @@ hobbies: ["Sports","Travelling"]
 * Content Writer and LinkedIn Manager at Tech Researchers Club VIT C
 * Technical , Management and Operations at Open Source Club VIT C
 * Technical Blogger at HackClub VIT C
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mainak0907&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
