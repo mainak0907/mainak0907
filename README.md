@@ -69,9 +69,6 @@ hobbies: ["Sports","Travelling"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
 </p>
 
-## Visitor count 😎
-
-![Visitor Count](https://profile-counter.glitch.me/{mainak0907}/count.svg)
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
           
