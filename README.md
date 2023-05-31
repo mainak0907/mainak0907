@@ -47,7 +47,7 @@ hobbies: ["Sports","Travelling"]
 ```
 ## 👯 Communities
 * Technical Management and Content member at IEEE Computer Society VIT C
-* Content Writer and LinkedIn Manager at Tech Researchers Club VIT C
+* Content and Operations Lead and LinkedIn Manager at Tech Researchers Club VIT C
 * Technical , Management and Operations at Open Source Club VIT C
 * Technical Blogger at HackClub VIT C
 
