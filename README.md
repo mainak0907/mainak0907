@@ -19,9 +19,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-<p align="center">
-  <img src= "https://media.giphy.com/media/hL9q5k9dk9l0wGd4e0/giphy.gif">
-</p>
+
+[![An image of @mainak0907's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mainak0907)](https://holopin.io/@mainak0907)
+
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
