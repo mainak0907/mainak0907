@@ -41,10 +41,18 @@
 ```yaml
 name: Mainak Chattopadhyay
 located_in: Kolkata & Chennai , India 
-current_job: CSE Major Student
+Experience:
+  [
+   Web Dev Intern at HMT Architects, Chennai:
+  [
+    "Built the Website for the Company following SEO Best Practices working with a team of 5 members.
+     Used Next JS 13 and React JS, which improved website performance"
+  ]
+
+  ]
 education:
   [
-    "CSE with AI & ML at Vellore Institute of Technology, Chennai Campus
+    "CSE with AI & ML at Vellore Institute of Technology, Chennai Campus"
   ]
 Communities:
   [
