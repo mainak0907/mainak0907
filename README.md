@@ -24,6 +24,18 @@
 
 ---
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,react,figma,typescript,next,nodejs,vscode,md,git,github,html,css,bootstrap,tailwind,express,firebase,mongodb,mysql,netlify,vercel,graphql" />
+  </a>
+</p>
+
+---
+
+[![mainak's GitHub | Stats](https://stats.quine.sh/mainak/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=mainak)
+[![mainak's GitHub | Dependencies](https://stats.quine.sh/mainak/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mainak)
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
@@ -32,47 +44,40 @@ located_in: Kolkata & Chennai , India
 current_job: CSE Major Student
 education:
   [
-    "CSE with AI & ML at Vellore Institute of Technology , Chennai Campus
+    "CSE with AI & ML at Vellore Institute of Technology, Chennai Campus
   ]
-fields_of_interests:
+Communities:
   [
-    "Web Development",
-    "Machine Learning",
-    "Cloud Computing with Azure"
+    "Content, Strategy and Operations Lead at  Tech Researchers Club, VIT C",
+    "Technical Blogger at IEEE COMPSOC, GDSC VIT C"
   ]
   
-currently_learning: ["Azure, Web Dev"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Sports","Travelling"]
+currently_learning: ["Next JS, React JS, Backend Dev"]
+hobbies: ["Sports", "Travelling"]
 ```
-## 👯 Communities
-* Technical Management and Content member at IEEE Computer Society VIT C
-* Content and Operations Lead and LinkedIn Manager at Tech Researchers Club VIT C
-* Technical , Management and Operations at Open Source Club VIT C
-* Technical Blogger at HackClub VIT C
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mainak0907&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mainak0907&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mainak0907&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
-</p>
 
 
 <h2> 📈 &nbsp;My GitHub History! <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2>
           
-![Mainak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainak0907&show_icons=true&theme=cobalt)          
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mainak0907&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mainak0907&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mainak0907&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mainak0907&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mainak0907&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mainak0907&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mainak0907&theme=dracula&utcOffset=8)
+
+</div>  
           
 ![Snake animation](https://github.com/mainak0907/mainak0907/blob/output/github-contribution-grid-snake.svg)
           
