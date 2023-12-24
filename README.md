@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> &nbsp; Let's Connect and have a Chat!💬
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> &nbsp; `npx mainak` on your terminal !! Lets Connect!💬
 </h1>
 <p align="center">
  <a href="https://www.linkedin.com/in/mainakc/">
