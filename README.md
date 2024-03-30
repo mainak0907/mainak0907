@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+![gitartwork](gitartwork.svg)
 
 <h1 align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> &nbsp; 'npx mainak' on your terminal !! Let's Connect!💬
