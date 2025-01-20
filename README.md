@@ -90,8 +90,7 @@ hobbies: ["Sports", "Travelling"]
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mainak0907&theme=dracula&utcOffset=8)
 
 </div>  
-          
-![Snake animation](https://github.com/mainak0907/mainak0907/blob/output/github-contribution-grid-snake.svg)
+         
           
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
