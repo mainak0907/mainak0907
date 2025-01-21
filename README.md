@@ -42,29 +42,13 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Mainak Chattopadhyay
-located_in: Kolkata & Chennai , India 
-Experience:
-  [
-   Web Dev Intern at HMT Architects, Chennai:
-  [
-    "Built the Website for the Company following SEO Best Practices working with a team of 5 members.
-     Used Next JS 13 and React JS, which improved website performance"
-  ]
+I deal in Software Development , Data Analysis , DevOps , GenAI and Cloud
 
-  ]
-education:
-  [
-    "CSE with AI & ML at Vellore Institute of Technology, Chennai Campus"
-  ]
-Communities:
-  [
-    "Content, Strategy and Operations Lead at  Tech Researchers Club, VIT C",
-    "Technical Blogger at IEEE COMPSOC, GDSC VIT C"
-  ]
-  
-currently_learning: ["Next JS, React JS, Backend Dev"]
-hobbies: ["Sports", "Travelling"]
+With a B.Tech in Computer Science and Engineering degree , I bring a strong foundation in Software development, Data Engineering , and a proven track record of impactful projects and internships, including leading a winning hackathon project and hosting corporate websites.
+
+📧 Reach out at: chatterjee.mainak15@gmail.com to collaborate!
+
+
 ```
 
 ### 🔝 Top Contributed Repo
