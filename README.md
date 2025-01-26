@@ -20,18 +20,6 @@
 </a>
 </p>
 
-[![An image of @mainak0907's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mainak0907)](https://holopin.io/@mainak0907)
-
----
-
-
----
-
-[![mainak's GitHub | Stats](https://stats.quine.sh/mainak/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=mainak)
-[![mainak's GitHub | Dependencies](https://stats.quine.sh/mainak/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mainak)
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
 ```yaml
 I deal in Software Development , Data Analysis , DevOps , GenAI and Cloud
 
@@ -41,6 +29,13 @@ With a B.Tech in Computer Science and Engineering degree , I bring a strong foun
 
 
 ```
+
+---
+
+[![mainak's GitHub | Stats](https://stats.quine.sh/mainak/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=mainak)
+[![mainak's GitHub | Dependencies](https://stats.quine.sh/mainak/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mainak)
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mainak0907&limit=5&theme=dark&combine_all_yearly_contributions=true)
