@@ -24,12 +24,6 @@
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,react,figma,typescript,next,nodejs,vscode,md,git,github,html,css,bootstrap,tailwind,express,firebase,mongodb,mysql,netlify,vercel,graphql" />
-  </a>
-</p>
 
 ---
 
