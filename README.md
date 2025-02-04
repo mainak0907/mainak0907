@@ -21,9 +21,12 @@
 </p>
 
 ```yaml
-I deal in Software Development , Data Analysis , DevOps , GenAI and Cloud
+I deal in Software Development, Data Analysis, DevOps, GenAI, and Cloud.
 
-With a B.Tech in Computer Science and Engineering degree , I bring a strong foundation in Software development, Data Engineering , and a proven track record of impactful projects and internships, including leading a winning hackathon project and hosting corporate websites.
+With a B.Tech in Computer Science and Engineering degree,  
+I bring a strong foundation in Software Development, Data Engineering,  
+and a proven track record of impactful projects and internships,  
+including leading a winning hackathon project and hosting corporate websites.
 
 📧 Reach out at: chatterjee.mainak15@gmail.com to collaborate!
 
